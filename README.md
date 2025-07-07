@@ -1,2 +1,2 @@
 # Linear-Regression
-impoeting libraries, checking null values,heat map, train test split
+importing libraries, checking null values,heat map, train test split
