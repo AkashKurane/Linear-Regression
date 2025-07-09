@@ -1,2 +1,7 @@
 # Linear-Regression
-importing libraries, reading csv, checking null values, heat map, train test split and linear regression
+importing libraries, 
+reading csv, 
+checking null values, 
+heat map, 
+train test split and 
+linear regression
